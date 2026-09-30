@@ -10,6 +10,6 @@ def deter(a):
     return "su numero es 0"
 
 
-numero = int(input("ingrese un numero: "))
+numero = int(input("ingrese un numero: "))y
 resp = deter(numero)
 print(f"{resp}") 
