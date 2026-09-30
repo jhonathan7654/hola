@@ -11,3 +11,4 @@ def deter(a):
 numero = int(input("ingrese un numero: "))
 resp = deter(numero)
 print(f"{resp}") 
+#prueba de edicion
